@@ -20,6 +20,18 @@ Author: Saleh Naamneh <Salehnaamneh46@gmail.com>
 Date:   Sun Mar 3 17:20:13 2024 +0200
 
     Add date and RepoName to logtest.log
+commit 4238403ab2c5e8dd5bcf3e4e86d4ab5c72e60399
+Author: Saleh Naamneh <Salehnaamneh46@gmail.com>
+Date:   Sun Mar 3 17:23:24 2024 +0200
+
+    All files with {png,jpg} extention has been copied to BR_IMAGES
+
+commit 60e0618daeaa3d0e2c1fa10ae7b04deb281864a9
+Author: Saleh Naamneh <Salehnaamneh46@gmail.com>
+Date:   Sun Mar 3 17:23:22 2024 +0200
+
+    Add date and RepoName to logtest.log
+
 commit 0f561d9d2b6246a2e3398f564bd5e188f31c79ac
 Author: Saleh Naamneh <Salehnaamneh46@gmail.com>
 Date:   Sun Mar 3 17:22:11 2024 +0200
@@ -55,15 +67,3 @@ Author: Saleh Naamneh <Salehnaamneh46@gmail.com>
 Date:   Sun Mar 3 17:20:13 2024 +0200
 
     Add date and RepoName to logtest.log
-2024-03-03 - RepoTest
-LinuxFiles-Data/
-LinuxFiles-Data/file_1.txt
-LinuxFiles-Data/file_2.txt
-LinuxFiles-Data/linux1.jpg
-LinuxFiles-Data/linux2.jpg
-LinuxFiles-Data/linux3.png
-LinuxFiles-Data/linux4.jpg
-LinuxFiles-Data/log_1.log
-LinuxFiles-Data/oslogs.log
-LinuxFiles-Data/webserver.log
-Data.tar.gz
